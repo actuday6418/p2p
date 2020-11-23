@@ -1,0 +1,13 @@
+/home/actuday/dev/p2p/target/debug/deps/quote-8df32206e77519ce.rmeta: /home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/lib.rs /home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ext.rs /home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/format.rs /home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ident_fragment.rs /home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/to_tokens.rs /home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/runtime.rs /home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/spanned.rs
+
+/home/actuday/dev/p2p/target/debug/deps/libquote-8df32206e77519ce.rlib: /home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/lib.rs /home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ext.rs /home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/format.rs /home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ident_fragment.rs /home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/to_tokens.rs /home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/runtime.rs /home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/spanned.rs
+
+/home/actuday/dev/p2p/target/debug/deps/quote-8df32206e77519ce.d: /home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/lib.rs /home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ext.rs /home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/format.rs /home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ident_fragment.rs /home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/to_tokens.rs /home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/runtime.rs /home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/spanned.rs
+
+/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/lib.rs:
+/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ext.rs:
+/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/format.rs:
+/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ident_fragment.rs:
+/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/to_tokens.rs:
+/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/runtime.rs:
+/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/spanned.rs:
