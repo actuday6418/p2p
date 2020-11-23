@@ -97,8 +97,8 @@ fn recieve(laddr: &str) {
 }
 
 fn handle_send() {
-    let name: String = String::from("Nolan");
-    let msg: String = String::from("Hello!");
+    let mut name: String = String::from("Nolan");
+    let mut msg: String = String::from("Hello!");
     let mut saddr = String::new();
     let mut taddr = String::new();
 
@@ -110,6 +110,15 @@ fn handle_send() {
     std::io::stdin().read_line(&mut taddr).unwrap();
     let taddr = taddr.trim();
 
+    println!("Enter the sender's name: ");
+    std::io::stdin().read_line(&mut name).unwrap();
+    let name = name.trim().to_string();
+
+    println!("Enter the message: ");
+    std::io::stdin().read_line(&mut msg).unwrap();
+    let msg = msg.trim().to_string();
+
+    let taddr = taddr.trim();
     send(saddr, name, msg, taddr);
 }
 
