@@ -69,7 +69,7 @@ fn recieve(laddr: &str) {
             match lsock.recv_from(&mut buff) {
                 Ok((amt, _)) => {
                     println!("Recieved packet of size: {}", amt);
-                    if buff == [0u8; 64] {
+                    if buff.iter().all(|&x| x == 0) {
                         let copied_buff = data.clone();
                         tx.send(copied_buff).unwrap();
                         println!("Clearing..");
